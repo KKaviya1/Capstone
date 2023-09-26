@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapstonePrj", "CapstonePrj\CapstonePrj.csproj", "{F5CB9F76-D266-4802-B315-DDB31BCBC9F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogMVC", "BlogMVC\BlogMVC.csproj", "{CEAE03AC-5844-46CB-B3BA-AF259558CD17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5CB9F76-D266-4802-B315-DDB31BCBC9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CB9F76-D266-4802-B315-DDB31BCBC9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CB9F76-D266-4802-B315-DDB31BCBC9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CB9F76-D266-4802-B315-DDB31BCBC9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEAE03AC-5844-46CB-B3BA-AF259558CD17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEAE03AC-5844-46CB-B3BA-AF259558CD17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEAE03AC-5844-46CB-B3BA-AF259558CD17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEAE03AC-5844-46CB-B3BA-AF259558CD17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {724F75B8-F64F-4002-AA48-35028935D58E}
+	EndGlobalSection
+EndGlobal
