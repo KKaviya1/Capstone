@@ -10,5 +10,7 @@
     <WebStackScaffolding_LayoutPageFile />
     <WebStackScaffolding_DbContextTypeFullName>CapstonePrj.Models.CapstoneContext</WebStackScaffolding_DbContextTypeFullName>
     <WebStackScaffolding_IsAsyncSelected>False</WebStackScaffolding_IsAsyncSelected>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>F:\Capstone\CapstonePrj\CapstonePrj\Properties\PublishProfiles\registry.hub.docker.com_KKaviya.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -18,5 +18,6 @@ namespace BlogMVC.Models
         public string BlogUrl { get; set; }
 
         public string EmpEmailId { get; set; }
+        public int BlogInfoId { get; internal set; }
     }
 }

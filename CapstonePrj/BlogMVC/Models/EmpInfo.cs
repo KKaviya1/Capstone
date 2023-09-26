@@ -16,5 +16,6 @@ namespace BlogMVC.Models
         public DateTime DateOfJoining { get; set; }
 
         public int PassCode { get; set; }
+        public int EmpInfoId { get; internal set; }
     }
 }

@@ -1,0 +1,21 @@
+Explanation:
+------------
+
+Step 1 - Create AdminInfo, EmpInfo and BlogInfo table in SqlServer
+Step 2 - Create Asp.net core Web API in VS 2022 and Download required Dependencies
+Step 3 - Use Scaffold-DbContext to connect your DB to our project, it will automatically create models and its DdContext file
+Step 4 - Run and Check if all the REST operations are operational in the swagger
+Step 5 - Now Create a New Asp.Net Mvc project in the same solution explorer. 
+Step 6 - Enable both project to run at the same time when the build is entered
+Step 7 - Create the models same as models in the WebApi
+Step 8 - Create controllers for the same models 
+Step 9 - In controllers, using HttpClient request connect the WebApi data to our MVC Project for CRUD operations
+Step 10 - Create Views for the respective fields
+Step 11 - In Shared layout, change the layout for our requirements
+Step 12 - Assign login and logout in the _layout view
+Step 13 - Build and Run the program
+Step 14 - Check if all the functions works perfectly.
+Step 15 - If all runs perfectly, then close the program
+
+
+GitHub Link:
